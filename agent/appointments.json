@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Jean Du",
+        "time": "tomorrow at 10 AM",
+        "service": "oil change"
+    },
+    {
+        "name": "Meredith Gray",
+        "time": "2 PM tomorrow",
+        "service": "oil change"
+    },
+    {
+        "name": "Meredith Yang",
+        "time": "2 PM tomorrow",
+        "service": "oil change"
+    }
+]

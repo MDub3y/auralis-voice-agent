@@ -1,0 +1,18 @@
+[
+  {
+    "id": "RR-1769870016",
+    "name": "Meredith Gray",
+    "phone": "1234567890",
+    "service": "Phantom service",
+    "date": "tomorrow",
+    "status": "confirmed"
+  },
+  {
+    "id": "RR-1769870024",
+    "name": "Meredith Gray",
+    "phone": "9876543210",
+    "service": "Phantom service",
+    "date": "tomorrow",
+    "status": "confirmed"
+  }
+]
